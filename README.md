@@ -34,7 +34,7 @@ $ make install
 or just copy the man file in `_doc/wiki.1` to `/usr/local/share/man/man1` or
 where you keep your man files.
 
-You can also install with [Homebrew](https://brew.sh/) (Only for Linux and MacOS).
+You can also install with [Homebrew](https://brew.sh/).
 
 First you need to install Homebrew if you haven't installed yet.
 
