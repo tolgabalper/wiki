@@ -34,6 +34,20 @@ $ make install
 or just copy the man file in `_doc/wiki.1` to `/usr/local/share/man/man1` or
 where you keep your man files.
 
+You can also install with [Homebrew](https://brew.sh/) (Only for Linux and MacOS).
+
+First you need to install Homebrew if you haven't installed yet.
+
+```shell
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+Then you need to run following command.
+
+```shell
+$ brew install wiki
+```
+
 ## Usage
 
 To get a summary from Wikipedia in English just invoke the tool with a query.
